@@ -1,9 +1,9 @@
 # 👋Hi, I`m Roman
 ## There is a few things that I'm interested in:
 - Programming:
-1. JS (+ React)
-2. Arduino
-3. Other languages (with low knowlege) - C++, Python, C#
+  + JS (+ React)
+  + Arduino
+  + Other languages (with low knowlege) - C++, Python, C#
 - Technical 3D modelling and printing
 - Electronics
 - And other different things ...
